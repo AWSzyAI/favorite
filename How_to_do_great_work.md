@@ -1,6 +1,6 @@
 # How to Do Great Work
 - 原作出处：[How to Do Great Work (paulgraham.com)](http://paulgraham.com/greatwork.html)
-- GPT-4中文翻译：[译·如何做出伟大的工作 (notion.so)](https://www.notion.so/shiziyan/9d75b15f5f044d34ac89e60839577779)
+- GPT-4中文翻译：[译·如何做出伟大的工作](https://tw93.fun/2023-07-20/great.html)
 
 July 2023
 
