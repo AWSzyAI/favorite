@@ -1,5 +1,6 @@
 # How to Do Great Work
-[How to Do Great Work: paulgraham.com](paulgraham.com)
+- 原作出处：[How to Do Great Work (paulgraham.com)](http://paulgraham.com/greatwork.html)
+- GPT-4中文翻译：[译·如何做出伟大的工作 (notion.so)](https://www.notion.so/shiziyan/9d75b15f5f044d34ac89e60839577779)
 
 July 2023
 
@@ -17,18 +18,22 @@ offers scope to do great work.
 
 In practice, you don't have to worry much about the third criterion. Ambitious people are if
 anything already too conservative about it. So all you need to do is find something you have an
-aptitude for and great interest in. 1
+aptitude for and great interest in. [1]
+
 That sounds straightforward, but it's often quite difficult. When you're young you don't know what
 you're good at or what different kinds of work are like. Some kinds of work you end up doing may
 not even exist yet. So while some people know what they want to do at 14, most have to figure it
 out.
+
 The way to figure out what to work on is by working. If you're not sure what to work on, guess.
 But pick something and get going. You'll probably guess wrong some of the time, but that's fine.
 It's good to know about multiple things; some of the biggest discoveries come from noticing
 connections between different fields.
+
 Develop a habit of working on your own projects. Don't let "work" mean something other people
 tell you to do. If you do manage to do great work one day, it will probably be on a project of your
 own. It may be within some bigger project, but you'll be driving your part of it.
+
 What should your projects be? Whatever seems to you is excitingly ambitious. As you grow older
 and your taste in projects evolves, exciting and important will converge. At 7 it may seem
 excitingly ambitious to build huge things out of Lego, then at 14 to teach yourself calculus, till at
@@ -61,7 +66,9 @@ The three most powerful motives are curiosity, delight, and the desire to do som
 impressive. Sometimes they converge, and that combination is the most powerful of all.
 The big prize is to discover a new fractal bud. You notice a crack in the surface of knowledge, pry it
 open, and there's a whole world inside.
-2
+
+# 2
+
 Let's talk a little more about the complicated business of figuring out what to work on. The main
 reason it's hard is that you can't tell what most kinds of work are like except by doing them. This
 means the four steps overlap: you may have to work at something for years before you know how
@@ -112,7 +119,9 @@ There are a lot of forces that will lead you astray when you're trying to figure
 Pretentiousness, fashion, fear, money, politics, other people's wishes, eminent frauds. But if you
 stick to what you find genuinely interesting, you'll be proof against all of them. If you're interested,
 you're not astray.
-3
+
+# 3
+
 Following your interests may sound like a rather passive strategy, but in practice, it usually means
 following them past all sorts of obstacles. You usually have to risk rejection and failure. So it does
 take a good deal of boldness.
@@ -127,7 +136,9 @@ I think for most people who want to do great work, the right strategy is not to 
 each stage do whatever seems most interesting and gives you the best options for the future. I
 call this approach "staying upwind." This is how most people who've done great work seem to
 have done it.
-4
+
+# 4
+
 Even when you've found something exciting to work on, working on it is not always
 straightforward. There will be times when some new idea makes you leap out of bed in the
 morning and get straight to work. But there will also be plenty of times when things aren't like
@@ -162,7 +173,9 @@ best work happens in what was meant to be the final stage.
 Another permissible lie is to exaggerate the importance of what you're working on, at least in
 your own mind. If that helps you discover something new, it may turn out not to have been a lie
 after all. 7
-5
+
+# 5
+
 Since there are two senses of starting work — per day and per project — there are also two forms
 of procrastination. Per-project procrastination is far more dangerous. You put off starting that
 ambitious project from year to year because the time isn't quite right. When you're
@@ -174,43 +187,56 @@ You're too busy to notice it.
 The way to beat it is to stop occasionally and ask yourself: Am I working on what I most want to
 work on?" When you're young it's ok if the answer is sometimes no, but this gets increasingly
 dangerous as you get older. 9
-6
+
+# 6
+
 Great work usually entails spending what would seem to most people an unreasonable amount
 of time on a problem. You can't think of this time as a cost, or it will seem too high. You have to
 find the work sufficiently engaging as it's happening.
+
 There may be some jobs where you have to work diligently for years at things you hate before
 you get to the good part, but this is not how great work happens. Great work happens by focusing
 consistently on something you're genuinely interested in. When you pause to take stock, you're
 surprised at how far you've come.
+
 The reason we're surprised is that we underestimate the cumulative effect of work. Writing a page
 a day doesn't sound like much, but if you do it every day you'll write a book a year. That's the key:
 consistency. People who do great things don't get a lot done every day. They get something done,
 rather than nothing.
+
 If you do work that compounds, you'll get exponential growth. Most people who do this do it
 unconsciously, but it's worth stopping to think about. Learning, for example, is an instance of this
 phenomenon: the more you learn about something, the easier it is to learn more. Growing an
 audience is another: the more fans you have, the more new fans they'll bring you.
+
 The trouble with exponential growth is that the curve feels flat in the beginning. It isn't; it's still a
 wonderful exponential curve. But we can't grasp that intuitively, so we underrate exponential
 growth in its early stages.
+
 Something that grows exponentially can become so valuable that it's worth making an
 extraordinary effort to get it started. But since we underrate exponential growth early on, this too
 is mostly done unconsciously: people push through the initial, unrewarding phase of learning
 something new because they know from experience that learning new things always takes an
 initial push, or they grow their audience one fan at a time because they have nothing better to do.
 If people consciously realized they could invest in exponential growth, many more would do it.
-7
+
+# 7
+
 Work doesn't just happen when you're trying to. There's a kind of undirected thinking you do
 when walking or taking a shower or lying in bed that can be very powerful. By letting your mind
 wander a little, you'll often solve problems you were unable to solve by frontal attack.
+
 You have to be working hard in the normal way to benefit from this phenomenon, though. You
 can't just walk around daydreaming. The daydreaming has to be interleaved with deliberate work
 that feeds it questions. 10
+
 Everyone knows to avoid distractions at work, but it's also important to avoid them in the other
 half of the cycle. When you let your mind wander, it wanders to whatever you care about most at
 that moment. So avoid the kind of distraction that pushes your work out of the top spot, or you'll
 waste this valuable type of thinking on the distraction instead. (Exception: Don't avoid love.)
-8
+
+# 8
+
 Consciously cultivate your taste in the work done in your field. Until you know which is the best
 and what makes it so, you don't know what you're aiming for.
 And that is what you're aiming for, because if you don't try to be the best, you won't even be
@@ -227,7 +253,8 @@ try merely to be good.
 One way to aim high is to try to make something that people will care about in a hundred years.
 Not because their opinions matter more than your contemporaries, but because something that
 still seems good in a hundred years is more likely to be genuinely good.
-9
+# 9
+
 Don't try to work in a distinctive style. Just try to do the best job you can; you won't be able to help
 doing it in a distinctive way.
 Style is doing things in a distinctive way without trying to. Trying to is affectation.
@@ -238,7 +265,9 @@ The temptation to be someone else is greatest for the young. They often feel lik
 you never need to worry about that problem, because it's self-solving if you work on sufficiently
 ambitious projects. If you succeed at an ambitious project, you're not a nobody; you're the person
 who did it. So just do the work and your identity will take care of itself.
-10
+
+# 10
+
 "Avoid affectation" is a useful rule so far as it goes, but how would you express this idea
 positively? How would you say what to be, instead of what not to be? The best answer is earnest.
 If you're earnest you avoid not just affectation but a whole set of similar vices.
@@ -271,7 +300,9 @@ earnestness will suffice. But I doubt it would be possible to do great work with
 It's so hard to do even if you are. You don't have enough margin for error to accommodate the
 distortions introduced by being affected, intellectually dishonest, orthodox, fashionable, or cool.
 14
-11
+
+# 11
+
 Great work is consistent not only with who did it, but with itself. It's usually all of a piece. So if you
 face a decision in the middle of working on something, ask which choice is more consistent.
 You may have to throw things away and redo them. You won't necessarily have to, but you have
@@ -306,7 +337,9 @@ Great work will often be tool-like in the sense of being something others build 
 sign if you're creating ideas that others could use, or exposing questions that others could
 answer. The best ideas have implications in many different areas.
 If you express your ideas in the most general form, they'll be truer than you intended.
-12
+
+# 12
+
 True by itself is not enough, of course. Great ideas have to be true and new. And it takes a certain
 amount of ability to see new ideas even once you've learned enough to get to one of the frontiers
 of knowledge.
@@ -343,7 +376,9 @@ Curiosity and originality are closely related. Curiosity feeds originality by gi
 work on. But the relationship is closer than that. Curiosity is itself a kind of originality; it's roughly
 to questions what originality is to answers. And since questions at their best are a big component
 of answers, curiosity at its best is a creative force.
-13
+
+# 13
+
 Having new ideas is a strange game, because it usually consists of seeing things that were right
 under your nose. Once you've seen a new idea, it tends to seem obvious. Why did no one think of
 this before?
@@ -389,7 +424,9 @@ Strictness plus rule-breaking sounds like a strange combination. In popular cult
 opposed. But popular culture has a broken model in this respect. It implicitly assumes that issues
 are trivial ones, and in trivial matters strictness and rule-breaking are opposed. But in questions
 that really matter, only rule-breakers can be truly strict.
-14
+
+# 14
+
 An overlooked idea often doesn't lose till the semifinals. You do see it, subconsciously, but then
 another part of your subconscious shoots it down because it would be too weird, too risky, too
 much work, too controversial. This suggests an exciting possibility: if you could turn off such
@@ -404,7 +441,9 @@ either literally or metaphorically as a religion will have valuable unexplored i
 Copernicus and Darwin both made discoveries of this type. 18
 What are people in your field religious about, in the sense of being too attached to some principle
 that might not be as self-evident as they think? What becomes possible if you discard it?
-15
+
+# 15
+
 People show much more originality in solving problems than in deciding which problems to solve.
 Even the smartest can be surprisingly conservative when deciding what to work on. People who'd
 never dreamt of being fashionable in any other way get sucked into working on fashionable
@@ -434,7 +473,9 @@ what would you do? The answer is probably more important than it seems.
 Originality in choosing problems seems to matter even more than originality in solving them.
 That's what distinguishes the people who discover whole new fields. So what might seem to be
 merely the initial step — deciding what to work on — is in a sense the key to the whole game.
-16
+
+# 16
+
 Few grasp this. One of the biggest misconceptions about new ideas is about the ratio of questions
 to answers in their composition. People think big ideas are answers, but often the real insight was
 in the question.
@@ -461,7 +502,9 @@ them. 20
 It's a great thing to be rich in unanswered questions. And this is one of those situations where the
 rich get richer, because the best way to acquire new questions is to try answering existing ones.
 Questions don't just lead to answers, but also to more questions.
-17
+
+# 17
+
 The best questions grow in the answering. You notice a thread protruding from the current
 paradigm and try pulling on it, and it just gets longer and longer. So don't require a question to be
 obviously big before you try answering it. You can rarely predict that. It's hard enough even to
@@ -498,7 +541,9 @@ Planning per se isn't good. It's sometimes necessary, but it's a necessary evil 
 unforgiving conditions. It's something you have to do because you're working with inflexible
 media, or because you need to coordinate the efforts of a lot of people. If you keep projects small
 and use flexible media, you don't have to plan as much, and your designs can evolve instead.
-18
+
+# 18
+
 Take as much risk as you can afford. In an efficient market, risk is proportionate to reward, so
 don't look for certainty, but for a bet with high expected value. If you're not failing occasionally,
 you're probably being too conservative.
@@ -509,7 +554,9 @@ Even a project that fails can be valuable. In the process of working on it, you'
 territory few others have seen, and encountered questions few others have asked. And there's
 probably no better source of questions than the ones you encounter in trying to do something
 slightly too hard.
-19
+
+# 19
+
 Use the advantages of youth when you have them, and the advantages of age once you have
 those. The advantages of youth are energy, time, optimism, and freedom. The advantages of age
 are knowledge, efficiency, money, and power. With effort, you can acquire some of the latter
@@ -534,7 +581,9 @@ with you. And you may have to set aside your misgivings temporarily to keep prog
 don't forget about them. When you've gotten further into the subject, come back and check if
 they're still there. If they're still viable in the light of your present knowledge, they probably
 represent an undiscovered idea.
-20
+
+# 20
+
 One of the most valuable kinds of knowledge you get from experience is to know what you don't
 have to worry about. The young know all the things that could matter, but not their relative
 importance. So they worry equally about everything, when they should worry much more about a
@@ -564,7 +613,9 @@ But perhaps the worst thing schools do to you is train you to win by hacking the
 great work by doing that. You can't trick God. So stop looking for that kind of shortcut. The way to
 beat the system is to focus on problems and solutions that others have overlooked, not to skimp
 on the work itself.
-21
+
+# 21
+
 Don't think of yourself as dependent on some gatekeeper giving you a "big break." Even if this
 were true, the best way to get it would be to focus on doing good work rather than chasing
 influential people.
@@ -572,7 +623,9 @@ And don't take rejection by committees to heart. The qualities that impress admi
 and prize committees are quite different from those required to do great work. The decisions of
 selection committees are only meaningful to the extent that they're part of a feedback loop, and
 very few are.
-22
+
+# 22
+
 People new to a field will often copy existing work. There's nothing inherently bad about that.
 There's no better way to learn how something works than by trying to reproduce it. Nor does
 copying necessarily make your work unoriginal. Originality is the presence of new ideas, not the
@@ -610,7 +663,9 @@ you let them be metaphors.
 Negative examples can be as inspiring as positive ones. In fact, you can sometimes learn more
 from things done badly than from things done well; sometimes it only becomes clear what's
 needed when it's missing.
-23
+
+# 23
+
 If a lot of the best people in your field are collected in one place, it's usually a good idea to visit for
 a while. It will increase your ambition, and also, by showing you that these people are human,
 increase your self-confidence. 26
@@ -623,7 +678,9 @@ prestige that in some places, particularly universities, there's a polite fictio
 engaged in it. And that is far from true. People within universities can't say so openly, but the
 quality of the work being done in different departments varies immensely. Some departments
 have people doing great work; others have in the past; others never have.
-24
+
+# 24
+
 Seek out the best colleagues. There are a lot of projects that can't be done alone, and even if
 you're working on one that can be, it's good to have other people to encourage you and bounce
 ideas off.
@@ -643,7 +700,9 @@ larger scale, and starting one of those is not for everyone. If you want to run 
 you'll have to become a manager, and managing well takes aptitude and interest like any other
 kind of work. If you don't have them, there is no middle path: you must either force yourself to
 learn management as a second language, or avoid such projects. 27
-25
+
+# 25
+
 Husband your morale. It's the basis of everything when you're working on ambitious projects. You
 have to nurture and protect it like a living organism.
 Morale starts with your view of life. You're more likely to do great work if you're an optimist, and
@@ -668,7 +727,9 @@ you need to. Corollary: Never abandon the root node.
 `It's not necessarily a bad sign if work is a struggle, any more than it's a bad sign to be out of
 breath while running. It depends on how fast you're running. So learn to distinguish good pain
 from bad. Good pain is a sign of effort; bad pain is a sign of damage.
-26
+
+# 26
+
 An audience is a critical component of morale. If you're a scholar, your audience may be your
 peers; in the arts, it may be an audience in the traditional sense. Either way, it doesn't need to be
 big. The value of an audience doesn't grow anything like linearly with its size. This is bad news if
@@ -693,7 +754,9 @@ thinking. 29
 People who do great work are not necessarily happier than everyone else, but they're happier
 than they'd be if they didn't. In fact, if you're smart and ambitious, it's dangerous not to be
 productive. People who are smart and ambitious but don't achieve much tend to become bitter.
-27
+
+# 27
+
 It's ok to want to impress other people, but choose the right people. The opinion of people you
 respect is a signal. Fame, which is the opinion of a much larger group you might or might not
 respect, just adds noise.
@@ -705,7 +768,9 @@ yourself get drawn into chasing something just because others are. In fact, don'
 make you do anything much more specific than work harder.
 Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's
 worth paying attention to.
-28
+
+# 28
+
 Notice how often that word has come up. If you asked an oracle the secret to doing great work
 and the oracle replied with a single word, my bet would be on "curiosity."
 That doesn't translate directly to advice. It's not enough just to be curious, and you can't
@@ -713,7 +778,9 @@ command curiosity anyway. But you can nurture it and let it drive you.
 Curiosity is the key to all four steps in doing great work: it will choose the field for you, get you to
 the frontier, cause you to notice the gaps in it, and drive you to explore them. The whole process
 is a kind of dance with curiosity.
-29
+
+# 29
+
 Believe it or not, I tried to make this essay as short as I could. But its length at least means it acts
 as a filter. If you made it this far, you must be interested in doing great work. And if so you're
 already further along than you might realize, because the set of people willing to want to is small.
